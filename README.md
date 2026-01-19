@@ -15,7 +15,5 @@
 <b>3.</b> Сгенерируйте ключ:<br/>
 <center><b>php artisan key:generate</b></center><br/><br/>
 <b>4.</b> Запустите команду:<br/>
-<center><b>npm run dev</b></center><br/><br/>
-<b>5.</b> Запустите команду:<br/>
 <center><b>php artisan serve</b></center><br/><br/>
 <p>Далее переходите по адресу http://127.0.0.1:8000 - здесь Вы увидите само приложение.</p>
