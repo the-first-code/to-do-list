@@ -15,6 +15,6 @@
 <b>3.</b> Мигрируйте при помощи команды <b>php artisan migrate</b><br/><br/>
 <b>4.</b> Сгенерируйте ключ:<br/>
 <center><b>php artisan key:generate</b></center><br/><br/>
-<b>5.</b> Запустите команду:<br/>
+<b>5.</b> Запустите команду:<br/><br/>
 <center><b>php artisan serve</b></center><br/><br/>
 <p>Далее переходите по адресу http://127.0.0.1:8000 - здесь Вы увидите само приложение.</p>
